@@ -1,7 +1,10 @@
 ---
 title: stlink konektovanje
 date: 2018-04-29 11:13:38
-tags: stm32,stlink,blue_pill
+tags: 
+ - stm32
+ - stlink
+ - blue_pill
 ---
 
 Konektovanje stlink adaptera i stm32 plocice.

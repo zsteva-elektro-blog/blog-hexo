@@ -1,7 +1,10 @@
 ---
 title: gdb stm32 peek & poke
 date: 2018-04-29 11:20:56
-tags: stm32,gdb,blue_pill
+tags:
+ - stm32
+ - gdb
+ - blue_pill
 ---
 
 Pošto smo uspešno {% post_link stlink-konektovanje povezali razvojnu pločicu %}, da probamo da upalimo LED diodu na pločici.
